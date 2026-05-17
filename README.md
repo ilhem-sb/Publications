@@ -10,6 +10,7 @@
   address   = {Portugal}
 }
 
+
 @inproceedings{sboui2016_accurate,
   author    = {Sboui, Ilhem and Jribi, Majdi and Ghorbel, Faouzi},
   title     = {Accurate 3D Shape Correspondence by a Local Description 
@@ -20,6 +21,7 @@
   note      = {IAPR Best Student Paper Prize 2016}
 }
 
+
 @inproceedings{sboui2015_geodesic,
   author    = {Sboui, Ilhem and Hajji, Mehdi and 
                {Bel Hadj Khelifa}, Wafa and Ghorbel, Faouzi},
@@ -28,6 +30,7 @@
   year      = {2015},
   address   = {Tunisia}
 }
+
 
 @inproceedings{sboui2013_semi,
   author    = {Sboui, Ilhem and Gadacha, Wieme and Ghorbel, Faouzi},
